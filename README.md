@@ -1,6 +1,8 @@
 # Despartire-in-silabe
 Enunț: Scrieți o funcție care desparte un cuvânt din limba română în silabe
+
 Reguli:
+
 Regula 1. O consoană între două vocale trece în silaba următoare;
 			ma-să; pă-du-re; u-ti-li-za-re; 
 			Această regulă se aplică şi în următoarele situaţii:
